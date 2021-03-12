@@ -4,7 +4,7 @@ html {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-  background-image: url("../images/Steine.jpeg"), linear-gradient(#ff9a9e, #fad0c4); /* W3C */
+  background-image: url("../images/Steine.jpeg"), linear-gradient(#a1c4fd, #c2e9fb); /* W3C */
 }
 
 body {
