@@ -3,6 +3,8 @@ html {
     width: 100%;
     background-image: url("../images/Steine.jpeg");
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 body {
