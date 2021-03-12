@@ -23,7 +23,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-#li a {color: white;}
+li a {color: white;}
 a {
     text-decoration: none;
     color: #999;
