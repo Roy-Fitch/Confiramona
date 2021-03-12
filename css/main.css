@@ -1,11 +1,12 @@
 html { 
     height: 100%;
     width: 100%;
-    background-image: url("../images/Steine.jpeg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  background: #ff9a9e;
+  background-image: url("../images/Steine.jpeg"); /* fallback */
+  background-image: url("../images/Steine.jpeg"), linear-gradient(#ff9a9e, #fad0c4); /* W3C */
 }
 
 body {
