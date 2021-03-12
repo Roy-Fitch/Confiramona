@@ -50,3 +50,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+div container {
+    overflow: auto;
+    max-height: 100%;
+}
