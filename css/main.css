@@ -24,6 +24,10 @@ div.bodymargin {
     margin: 20px;
 }
 
+div.navi {
+    margin-bottom: 20px;
+}
+
 navi ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
