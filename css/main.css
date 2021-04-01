@@ -13,13 +13,13 @@ body {
     background-image: url("../images/Steine.jpeg"), linear-gradient(white, white); /* W3C */
     background-size: contain;
 }
-div.navi ul, footer ul {
+navi ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-div.navi ul li, footer ul li {
+navi ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
