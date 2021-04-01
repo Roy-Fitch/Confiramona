@@ -12,6 +12,7 @@ body {
 div.body {
     width: 70%;
     height: 100%;
+    margin:auto;
     background-repeat: no-repeat;
     background-position: center;
     background-image: url("../images/Steine.jpeg"), linear-gradient(white, white); /* W3C */
