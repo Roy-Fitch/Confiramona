@@ -42,6 +42,11 @@ div.navi {
     margin-bottom: 20px;
 }
 
+div.img {
+    text-align: center;
+    margin-top: 20px;
+}
+
 navi ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
