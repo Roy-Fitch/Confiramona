@@ -42,9 +42,13 @@ div.navi {
     margin-bottom: 20px;
 }
 
-div.img {
+div.imgTop {
     text-align: center;
     margin-top: 20px;
+}
+div.imgBot {
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 navi ul, footer ul {
