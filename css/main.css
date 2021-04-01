@@ -17,6 +17,7 @@ div.body {
     background-position: center;
     background-image: url("../images/Steine.jpeg"), linear-gradient(white, white); /* W3C */
     background-size: cover;
+    overflow: auto;
 }
 navi ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
