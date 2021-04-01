@@ -44,10 +44,15 @@ div.navi {
 
 div.imgTop {
     text-align: center;
+}
+div.imgTop img {
     margin-top: 20px;
 }
+
 div.imgBot {
     text-align: center;
+}
+div.imgBot img {
     margin-bottom: 20px;
 }
 
