@@ -47,6 +47,8 @@ div.imgTop {
 }
 div.imgTop img {
     margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 div.imgBot {
@@ -54,6 +56,8 @@ div.imgBot {
 }
 div.imgBot img {
     margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 navi ul, footer ul {
