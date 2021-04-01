@@ -27,6 +27,8 @@ navi ul, footer ul {
 div.navi li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: 1.8em;
+    font-weight: bold;
 }
 li a {color: white;}
 a {
