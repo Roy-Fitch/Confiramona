@@ -19,6 +19,11 @@ div.body {
     background-size: cover;
     overflow: auto;
 }
+
+div.bodymargin {
+    margin: 20px;
+}
+
 navi ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
